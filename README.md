@@ -1,2 +1,2 @@
-# CodeClause
+#  Wine Quality Prediction
 CodeClause Internship
